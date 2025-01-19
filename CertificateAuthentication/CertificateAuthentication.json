@@ -1,0 +1,20 @@
+﻿{
+  "extensions": [
+    {
+      "guid": "47287048-D678-4A18-B7C2-673B518DB039",
+      "name": "CertificateAuthentication",
+      "description": "",
+      "assembly": "CertificateAuthentication",
+      "class": "CertificateAuthentication.SharePointCertificateRESTAuthentication",
+      "type": "CustomRESTAuthentication"
+    }
+  ],
+  "dependencies": [
+    "CertificateAuthentication"
+  ],
+  "serviceDependenciesPaths": [],
+  "portalDependenciesPaths": [],
+  "version": "25"
+}
+
+
